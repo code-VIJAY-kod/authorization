@@ -1,0 +1,7 @@
+-This is a jwt base authentication and authorization project.
+-Technologies used: Java 8, Springboot 2.7.18, Jpa, Hibernate, MySql, JWT
+-Structure of project
+  -Presentation layer
+  -Business layer
+  -Presistence layer
+  -DB layer
